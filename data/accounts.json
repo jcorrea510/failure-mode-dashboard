@@ -1,0 +1,589 @@
+{
+ "updated": "2026-11-12",
+ "formats": [
+  {
+   "key": "piano",
+   "name": "Glow Keys",
+   "emoji": "🎹",
+   "accounts": {
+    "yt": {
+     "handle": "@GlowKeys208",
+     "url": "https://www.youtube.com/@GlowKeys208",
+     "status": "ready",
+     "note": "name Glow Keys",
+     "posted": [],
+     "queued": [
+      "piano-aiwfc-v5",
+      "piano-itsyft",
+      "piano-runaway",
+      "piano-thatslife",
+      "piano-bluebossa"
+     ],
+     "next": null
+    },
+    "tt": {
+     "handle": "@glow.keys0",
+     "url": "https://www.tiktok.com/@glow.keys0",
+     "status": "ready",
+     "note": "logged in (profile tt-piano)",
+     "posted": [],
+     "queued": [
+      "piano-aiwfc-v5",
+      "piano-itsyft",
+      "piano-runaway",
+      "piano-thatslife",
+      "piano-bluebossa"
+     ],
+     "next": null
+    },
+    "ig": {
+     "handle": "@glowkeys1",
+     "url": "https://www.instagram.com/glowkeys1/",
+     "status": "ready",
+     "note": "",
+     "posted": [],
+     "queued": [
+      "piano-aiwfc-v5",
+      "piano-itsyft",
+      "piano-runaway",
+      "piano-thatslife",
+      "piano-bluebossa"
+     ],
+     "next": null
+    }
+   },
+   "queue": [
+    "piano-aiwfc-v5",
+    "piano-itsyft",
+    "piano-runaway",
+    "piano-thatslife",
+    "piano-bluebossa"
+   ],
+   "slots": [
+    "09:30",
+    "15:00",
+    "20:30"
+   ]
+  },
+  {
+   "key": "chess",
+   "name": "Chess in Seconds",
+   "emoji": "♟️",
+   "accounts": {
+    "yt": {
+     "handle": "@ChessInSeconds208",
+     "url": "https://www.youtube.com/@ChessInSeconds208",
+     "status": "ready",
+     "note": "UCPpmZDThmO21DhkKRXIaHhw (aienterprise208 brand account, made 11-12)",
+     "posted": [],
+     "queued": [
+      "chess5-legal",
+      "chess5-shilling",
+      "chess5-caro",
+      "chess5-englund",
+      "chess5-kieninger",
+      "chess5-stafford"
+     ],
+     "next": null
+    },
+    "tt": {
+     "handle": "@check.mate.in.5",
+     "url": "https://www.tiktok.com/@check.mate.in.5",
+     "status": "ready",
+     "note": "display name 'Check Mate in 5'",
+     "posted": [],
+     "queued": [
+      "chess5-legal",
+      "chess5-shilling",
+      "chess5-caro",
+      "chess5-englund",
+      "chess5-kieninger",
+      "chess5-stafford"
+     ],
+     "next": null
+    },
+    "ig": {
+     "handle": "@chess.inseconds",
+     "url": "https://www.instagram.com/chess.inseconds/",
+     "status": "ready",
+     "note": "new 11-11 (old chess_inseconds deleting)",
+     "posted": [],
+     "queued": [
+      "chess5-legal",
+      "chess5-shilling",
+      "chess5-caro",
+      "chess5-englund",
+      "chess5-kieninger",
+      "chess5-stafford"
+     ],
+     "next": null
+    }
+   },
+   "queue": [
+    "chess5-legal",
+    "chess5-shilling",
+    "chess5-caro",
+    "chess5-englund",
+    "chess5-kieninger",
+    "chess5-stafford"
+   ],
+   "slots": [
+    "10:00",
+    "15:30",
+    "21:00"
+   ]
+  },
+  {
+   "key": "story",
+   "name": "Town of Rules",
+   "emoji": "🕰️",
+   "accounts": {
+    "yt": {
+     "handle": "@TownOfRules208",
+     "url": "https://www.youtube.com/@TownOfRules208",
+     "status": "ready",
+     "note": "UCu84MCErrU-A6j5rvm1yuPw (aienterprise208 brand account, made 11-12)",
+     "posted": [],
+     "queued": [
+      "town13-p1",
+      "town13-p2",
+      "town13-p3",
+      "town9-p1"
+     ],
+     "next": null
+    },
+    "tt": {
+     "handle": "@town.of.rules",
+     "url": "https://www.tiktok.com/@town.of.rules",
+     "status": "ready",
+     "note": "",
+     "posted": [],
+     "queued": [
+      "town13-p1",
+      "town13-p2",
+      "town13-p3",
+      "town9-p1"
+     ],
+     "next": null
+    },
+    "ig": {
+     "handle": "@townof_rules",
+     "url": "https://www.instagram.com/townof_rules/",
+     "status": "ready",
+     "note": "",
+     "posted": [],
+     "queued": [
+      "town13-p1",
+      "town13-p2",
+      "town13-p3",
+      "town9-p1"
+     ],
+     "next": null
+    }
+   },
+   "queue": [
+    "town13-p1",
+    "town13-p2",
+    "town13-p3",
+    "town9-p1"
+   ],
+   "slots": [
+    "11:00",
+    "17:00",
+    "21:30"
+   ]
+  },
+  {
+   "key": "build",
+   "name": "Built From Zero",
+   "emoji": "🏗️",
+   "accounts": {
+    "yt": {
+     "handle": "@HowItsBuilt208",
+     "url": "https://www.youtube.com/@HowItsBuilt208",
+     "status": "ready",
+     "note": "channel name How It's Built",
+     "posted": [],
+     "queued": [
+      "build-well-town",
+      "build-hole-sewer",
+      "build-log-bridge",
+      "build-mailbox-post"
+     ],
+     "next": null
+    },
+    "tt": {
+     "handle": "@builtfromzero60",
+     "url": "https://www.tiktok.com/@builtfromzero60",
+     "status": "ready",
+     "note": "name 'joe' until 11-17 (TikTok lock)",
+     "posted": [],
+     "queued": [
+      "build-well-town",
+      "build-hole-sewer",
+      "build-log-bridge",
+      "build-mailbox-post"
+     ],
+     "next": null
+    },
+    "ig": {
+     "handle": "@built_fromzero1",
+     "url": "https://www.instagram.com/built_fromzero1/",
+     "status": "ready",
+     "note": "",
+     "posted": [],
+     "queued": [
+      "build-well-town",
+      "build-hole-sewer",
+      "build-log-bridge",
+      "build-mailbox-post"
+     ],
+     "next": null
+    }
+   },
+   "queue": [
+    "build-well-town",
+    "build-hole-sewer",
+    "build-log-bridge",
+    "build-mailbox-post"
+   ],
+   "slots": [
+    "12:00",
+    "18:00",
+    "22:00"
+   ]
+  }
+ ],
+ "slots_et": [
+  "09:30",
+  "15:00",
+  "20:30"
+ ],
+ "posting": "HOLD (owner reviews every video first)",
+ "hold": true,
+ "generated": "2026-11-14T06:18",
+ "awaiting_review": [
+  "town9-p2",
+  "town9-p3",
+  "piano-iwantyouback",
+  "build-paper-airport",
+  "chess5-fishingpole",
+  "chess5-siberian",
+  "chess5-lasker",
+  "piano-iwillsurvive",
+  "piano-mylife",
+  "piano-saturdaypark",
+  "town9-p4",
+  "towncone-p1",
+  "townfog-p1",
+  "build-tincan-tower",
+  "build-lemonade-market",
+  "build-snowball-resort"
+ ],
+ "approved": [
+  {
+   "slug": "piano-aiwfc-v5",
+   "format": "piano",
+   "title": "All I Want for Christmas Is You",
+   "dur": 37,
+   "video": "data/previews/piano-aiwfc-v5.mp4",
+   "poster": "data/previews/piano-aiwfc-v5.jpg"
+  },
+  {
+   "slug": "piano-itsyft",
+   "format": "piano",
+   "title": "I Thought I Saw Your Face Today",
+   "dur": 54,
+   "video": "data/previews/piano-itsyft.mp4",
+   "poster": "data/previews/piano-itsyft.jpg"
+  },
+  {
+   "slug": "piano-runaway",
+   "format": "piano",
+   "title": "Runaway",
+   "dur": 50,
+   "video": "data/previews/piano-runaway.mp4",
+   "poster": "data/previews/piano-runaway.jpg"
+  },
+  {
+   "slug": "piano-thatslife",
+   "format": "piano",
+   "title": "That's Life",
+   "dur": 63,
+   "video": "data/previews/piano-thatslife.mp4",
+   "poster": "data/previews/piano-thatslife.jpg"
+  },
+  {
+   "slug": "piano-bluebossa",
+   "format": "piano",
+   "title": "Blue Bossa",
+   "dur": 64,
+   "video": "data/previews/piano-bluebossa.mp4",
+   "poster": "data/previews/piano-bluebossa.jpg"
+  },
+  {
+   "slug": "chess5-legal",
+   "format": "chess",
+   "title": "He took the free queen",
+   "dur": 38,
+   "video": "data/previews/chess5-legal.mp4",
+   "poster": "data/previews/chess5-legal.jpg"
+  },
+  {
+   "slug": "chess5-shilling",
+   "format": "chess",
+   "title": "He grabbed one free pawn",
+   "dur": 40,
+   "video": "data/previews/chess5-shilling.mp4",
+   "poster": "data/previews/chess5-shilling.jpg"
+  },
+  {
+   "slug": "chess5-caro",
+   "format": "chess",
+   "title": "Checkmated by his own pieces",
+   "dur": 30,
+   "video": "data/previews/chess5-caro.mp4",
+   "poster": "data/previews/chess5-caro.jpg"
+  },
+  {
+   "slug": "chess5-englund",
+   "format": "chess",
+   "title": "He thought he trapped the queen",
+   "dur": 46,
+   "video": "data/previews/chess5-englund.mp4",
+   "poster": "data/previews/chess5-englund.jpg"
+  },
+  {
+   "slug": "chess5-kieninger",
+   "format": "chess",
+   "title": "He took the free bishop",
+   "dur": 50,
+   "video": "data/previews/chess5-kieninger.mp4",
+   "poster": "data/previews/chess5-kieninger.jpg"
+  },
+  {
+   "slug": "chess5-stafford",
+   "format": "chess",
+   "title": "He won the queen and lost",
+   "dur": 41,
+   "video": "data/previews/chess5-stafford.mp4",
+   "poster": "data/previews/chess5-stafford.jpg"
+  },
+  {
+   "slug": "town13-p1",
+   "format": "story",
+   "title": "In This Town, part 1",
+   "dur": 57,
+   "video": "data/previews/town13-p1.mp4",
+   "poster": "data/previews/town13-p1.jpg"
+  },
+  {
+   "slug": "town13-p2",
+   "format": "story",
+   "title": "In This Town, part 2",
+   "dur": 60,
+   "video": "data/previews/town13-p2.mp4",
+   "poster": "data/previews/town13-p2.jpg"
+  },
+  {
+   "slug": "town13-p3",
+   "format": "story",
+   "title": "In This Town, part 3",
+   "dur": 60,
+   "video": "data/previews/town13-p3.mp4",
+   "poster": "data/previews/town13-p3.jpg"
+  },
+  {
+   "slug": "town9-p1",
+   "format": "story",
+   "title": "In This Town, The Streetlights Go Out At Nine 😨 (Part 1)",
+   "dur": 59,
+   "video": "data/previews/town9-p1.mp4",
+   "poster": "data/previews/town9-p1.jpg"
+  },
+  {
+   "slug": "build-well-town",
+   "format": "build",
+   "title": "How a well becomes a town water supply",
+   "dur": 40,
+   "video": "data/previews/build-well-town.mp4",
+   "poster": "data/previews/build-well-town.jpg"
+  },
+  {
+   "slug": "build-hole-sewer",
+   "format": "build",
+   "title": "How a hole in the yard becomes a city sewer",
+   "dur": 43,
+   "video": "data/previews/build-hole-sewer.mp4",
+   "poster": "data/previews/build-hole-sewer.jpg"
+  },
+  {
+   "slug": "build-log-bridge",
+   "format": "build",
+   "title": "How a log across a creek becomes a real bridge",
+   "dur": 38,
+   "video": "data/previews/build-log-bridge.mp4",
+   "poster": "data/previews/build-log-bridge.jpg"
+  },
+  {
+   "slug": "build-mailbox-post",
+   "format": "build",
+   "title": "How a mailbox becomes a post office",
+   "dur": 38,
+   "video": "data/previews/build-mailbox-post.mp4",
+   "poster": "data/previews/build-mailbox-post.jpg"
+  }
+ ],
+ "remaking": [],
+ "review": [
+  {
+   "slug": "town9-p2",
+   "format": "story",
+   "title": "In This Town, The Streetlights Go Out At Nine 😨 (Part 2)",
+   "dur": 43,
+   "video": "data/previews/town9-p2.mp4",
+   "poster": "data/previews/town9-p2.jpg"
+  },
+  {
+   "slug": "town9-p3",
+   "format": "story",
+   "title": "In This Town, The Streetlights Go Out At Nine 😨 (Part 3)",
+   "dur": 42,
+   "video": "data/previews/town9-p3.mp4",
+   "poster": "data/previews/town9-p3.jpg"
+  },
+  {
+   "slug": "piano-iwantyouback",
+   "format": "piano",
+   "title": "I Want You Back",
+   "dur": 71,
+   "video": "data/previews/piano-iwantyouback.mp4",
+   "poster": "data/previews/piano-iwantyouback.jpg"
+  },
+  {
+   "slug": "build-paper-airport",
+   "format": "build",
+   "title": "How a paper airplane becomes an airport",
+   "dur": 39,
+   "video": "data/previews/build-paper-airport.mp4",
+   "poster": "data/previews/build-paper-airport.jpg"
+  },
+  {
+   "slug": "chess5-fishingpole",
+   "format": "chess",
+   "title": "The free bishop was bait",
+   "dur": 45,
+   "video": "data/previews/chess5-fishingpole.mp4",
+   "poster": "data/previews/chess5-fishingpole.jpg"
+  },
+  {
+   "slug": "chess5-siberian",
+   "format": "chess",
+   "title": "He took the free knight",
+   "dur": 40,
+   "video": "data/previews/chess5-siberian.mp4",
+   "poster": "data/previews/chess5-siberian.jpg"
+  },
+  {
+   "slug": "chess5-lasker",
+   "format": "chess",
+   "title": "The pawn became a knight",
+   "dur": 45,
+   "video": "data/previews/chess5-lasker.mp4",
+   "poster": "data/previews/chess5-lasker.jpg"
+  },
+  {
+   "slug": "piano-iwillsurvive",
+   "format": "piano",
+   "title": "I Will Survive",
+   "dur": 69,
+   "video": "data/previews/piano-iwillsurvive.mp4",
+   "poster": "data/previews/piano-iwillsurvive.jpg"
+  },
+  {
+   "slug": "piano-mylife",
+   "format": "piano",
+   "title": "My Life",
+   "dur": 66,
+   "video": "data/previews/piano-mylife.mp4",
+   "poster": "data/previews/piano-mylife.jpg"
+  },
+  {
+   "slug": "piano-saturdaypark",
+   "format": "piano",
+   "title": "Saturday in the Park",
+   "dur": 66,
+   "video": "data/previews/piano-saturdaypark.mp4",
+   "poster": "data/previews/piano-saturdaypark.jpg"
+  },
+  {
+   "slug": "town9-p4",
+   "format": "story",
+   "title": "In This Town, The Streetlights Go Out At Nine 😨 (Part 4)",
+   "dur": 39,
+   "video": "data/previews/town9-p4.mp4",
+   "poster": "data/previews/town9-p4.jpg"
+  },
+  {
+   "slug": "towncone-p1",
+   "format": "story",
+   "title": "In This Town, The Ice Cream Truck Comes Once A Year 😨 (Part 1)",
+   "dur": 56,
+   "video": "data/previews/towncone-p1.mp4",
+   "poster": "data/previews/towncone-p1.jpg"
+  },
+  {
+   "slug": "townfog-p1",
+   "format": "story",
+   "title": "In This Town, When The Fog Horn Blows, You Freeze 😨 (Part 1)",
+   "dur": 56,
+   "video": "data/previews/townfog-p1.mp4",
+   "poster": "data/previews/townfog-p1.jpg"
+  },
+  {
+   "slug": "build-tincan-tower",
+   "format": "build",
+   "title": "How a tin can phone becomes a cell tower",
+   "dur": 37,
+   "video": "data/previews/build-tincan-tower.mp4",
+   "poster": "data/previews/build-tincan-tower.jpg"
+  },
+  {
+   "slug": "build-lemonade-market",
+   "format": "build",
+   "title": "How a lemonade stand becomes a supermarket",
+   "dur": 39,
+   "video": "data/previews/build-lemonade-market.mp4",
+   "poster": "data/previews/build-lemonade-market.jpg"
+  },
+  {
+   "slug": "build-snowball-resort",
+   "format": "build",
+   "title": "How a snowball becomes a ski resort",
+   "dur": 39,
+   "video": "data/previews/build-snowball-resort.mp4",
+   "poster": "data/previews/build-snowball-resort.jpg"
+  }
+ ],
+ "titles": {
+  "piano-aiwfc-v5": "All I Want for Christmas Is You",
+  "piano-itsyft": "I Thought I Saw Your Face Today",
+  "piano-runaway": "Runaway",
+  "piano-thatslife": "That's Life",
+  "piano-bluebossa": "Blue Bossa",
+  "chess5-legal": "He took the free queen",
+  "chess5-shilling": "He grabbed one free pawn",
+  "chess5-caro": "Checkmated by his own pieces",
+  "chess5-englund": "He thought he trapped the queen",
+  "chess5-kieninger": "He took the free bishop",
+  "chess5-stafford": "He won the queen and lost",
+  "town13-p1": "In This Town, part 1",
+  "town13-p2": "In This Town, part 2",
+  "town13-p3": "In This Town, part 3",
+  "town9-p1": "In This Town, The Streetlights Go Out At Nine 😨 (Part 1)",
+  "build-well-town": "How a well becomes a town water supply",
+  "build-hole-sewer": "How a hole in the yard becomes a city sewer",
+  "build-log-bridge": "How a log across a creek becomes a real bridge",
+  "build-mailbox-post": "How a mailbox becomes a post office"
+ }
+}
