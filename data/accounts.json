@@ -1,0 +1,1635 @@
+{
+ "updated": "2026-11-12",
+ "formats": [
+  {
+   "key": "piano",
+   "name": "Glow Keys",
+   "emoji": "🎹",
+   "accounts": {
+    "yt": {
+     "handle": "@GlowKeys208",
+     "url": "https://www.youtube.com/@GlowKeys208",
+     "status": "ready",
+     "note": "name Glow Keys",
+     "posted": [
+      {
+       "at": "2026-11-14T09:30",
+       "slug": "piano-aiwfc-v5",
+       "url": "https://youtube.com/shorts/-unDfftHx_s",
+       "views": 4819
+      },
+      {
+       "at": "2026-11-14T15:00",
+       "slug": "piano-itsyft",
+       "url": "https://youtube.com/shorts/mHEM8_BTqPk",
+       "views": 1266
+      },
+      {
+       "at": "2026-11-14T20:30",
+       "slug": "piano-runaway",
+       "url": "https://youtube.com/shorts/xpJfuVlNM6g",
+       "views": 2735
+      },
+      {
+       "at": "2026-11-15T09:30",
+       "slug": "piano-thatslife",
+       "url": "https://youtube.com/shorts/gnBmXlrhQVs",
+       "views": 0
+      },
+      {
+       "at": "2026-11-15T15:00",
+       "slug": "piano-bluebossa",
+       "url": "https://youtube.com/shorts/FAmtvhffIR8",
+       "views": 679
+      },
+      {
+       "at": "2026-11-15T20:30",
+       "slug": "piano-iwantyouback",
+       "url": "https://youtube.com/shorts/LcQCYF-5b0E",
+       "views": 939
+      },
+      {
+       "at": "2026-11-16T09:30",
+       "slug": "piano-fairy",
+       "url": "https://youtube.com/shorts/xKkxVbgbhXI",
+       "views": 208
+      },
+      {
+       "at": "2026-11-16T15:00",
+       "slug": "piano-friend",
+       "url": "https://youtube.com/shorts/PFo37R-1aig",
+       "views": 0
+      }
+     ],
+     "queued": [
+      "piano-bohemian",
+      "piano-iwillsurvive",
+      "piano-mylife",
+      "piano-saturdaypark"
+     ],
+     "next": "2026-11-17T20:30",
+     "stats": {
+      "followers": 18,
+      "views": 10646,
+      "videos": 8
+     }
+    },
+    "tt": {
+     "handle": "@glow.keys0",
+     "url": "https://www.tiktok.com/@glow.keys0",
+     "status": "ready",
+     "note": "logged in (profile tt-piano)",
+     "posted": [
+      {
+       "at": "2026-11-14T09:35",
+       "slug": "piano-aiwfc-v5",
+       "url": "https://www.tiktok.com/@glow.keys0/video/7708035616663014669",
+       "views": 1093
+      },
+      {
+       "at": "2026-11-14T15:05",
+       "slug": "piano-itsyft",
+       "url": "https://www.tiktok.com/@glow.keys0/video/7708120751315995918",
+       "views": 1013
+      },
+      {
+       "at": "2026-11-14T20:35",
+       "slug": "piano-runaway",
+       "url": "https://www.tiktok.com/@glow.keys0/video/7708205829744413965",
+       "views": 3
+      },
+      {
+       "at": "2026-11-15T15:05",
+       "slug": "piano-bluebossa",
+       "url": "https://www.tiktok.com/@glow.keys0/video/7708811812682157325",
+       "views": 604
+      },
+      {
+       "at": "2026-11-15T09:35",
+       "slug": "piano-thatslife",
+       "url": "https://www.tiktok.com/@glow.keys0/video/7708409537346293023",
+       "views": 1409
+      },
+      {
+       "at": "2026-11-15T21:01",
+       "slug": "piano-iwantyouback",
+       "url": "https://www.tiktok.com/@glow.keys0/video/7708491851241721102",
+       "views": 3
+      },
+      {
+       "at": "2026-11-16T12:31",
+       "slug": "piano-fairy",
+       "url": ""
+      }
+     ],
+     "queued": [
+      "piano-friend",
+      "piano-bohemian",
+      "piano-iwillsurvive",
+      "piano-mylife",
+      "piano-saturdaypark"
+     ],
+     "next": "2026-11-17T20:30",
+     "stats": {
+      "followers": 2,
+      "views": 5410,
+      "videos": 7
+     }
+    },
+    "ig": {
+     "handle": "@glowkeys1",
+     "url": "https://www.instagram.com/glowkeys1/",
+     "status": "ready",
+     "note": "",
+     "posted": [
+      {
+       "at": "2026-11-14T09:40",
+       "slug": "piano-aiwfc-v5",
+       "url": "https://www.instagram.com/glowkeys1/reel/DfucZZBiNTn/",
+       "views": 138
+      },
+      {
+       "at": "2026-11-14T15:10",
+       "slug": "piano-itsyft",
+       "url": "https://www.instagram.com/glowkeys1/reel/DfvCKV8iqLV/",
+       "views": 115
+      },
+      {
+       "at": "2026-11-14T20:40",
+       "slug": "piano-runaway",
+       "url": "https://www.instagram.com/glowkeys1/reel/Dfvn7TYilTH/",
+       "views": 145
+      },
+      {
+       "at": "2026-11-15T09:40",
+       "slug": "piano-thatslife",
+       "url": "https://www.instagram.com/glowkeys1/reel/DfxBMTKCvUp/",
+       "views": 115
+      },
+      {
+       "at": "2026-11-15T15:10",
+       "slug": "piano-bluebossa",
+       "url": "https://www.instagram.com/glowkeys1/reel/Dfxm9MmC4lX/",
+       "views": 107
+      },
+      {
+       "at": "2026-11-16T09:40",
+       "slug": "piano-fairy",
+       "url": "https://www.instagram.com/glowkeys1/reel/Dfzl_GxCfc6/",
+       "views": 118
+      },
+      {
+       "at": "2026-11-16T15:10",
+       "slug": "piano-friend",
+       "url": "https://www.instagram.com/glowkeys1/reel/Df0LwJoi33s/",
+       "views": 115
+      }
+     ],
+     "queued": [
+      "piano-bohemian",
+      "piano-iwillsurvive",
+      "piano-mylife",
+      "piano-saturdaypark"
+     ],
+     "next": "2026-11-17T20:30",
+     "stats": {
+      "followers": null,
+      "views": 853,
+      "videos": 7
+     }
+    }
+   },
+   "queue": [
+    "piano-iwantyouback",
+    "piano-fairy",
+    "piano-friend",
+    "piano-bohemian",
+    "piano-iwillsurvive",
+    "piano-mylife",
+    "piano-saturdaypark"
+   ],
+   "slots": [
+    "09:30",
+    "15:00",
+    "20:30"
+   ]
+  },
+  {
+   "key": "chess",
+   "name": "Chess in Seconds",
+   "emoji": "♟️",
+   "accounts": {
+    "yt": {
+     "handle": "@ChessInSeconds208",
+     "url": "https://www.youtube.com/@ChessInSeconds208",
+     "status": "ready",
+     "note": "UCPpmZDThmO21DhkKRXIaHhw (aienterprise208 brand account, made 11-12)",
+     "posted": [
+      {
+       "at": "2026-11-14T10:00",
+       "slug": "chess5-legal",
+       "url": "https://youtube.com/shorts/JNzEnTo-FUs",
+       "views": 2331
+      },
+      {
+       "at": "2026-11-14T15:30",
+       "slug": "chess5-shilling",
+       "url": "https://youtube.com/shorts/_xam6Iu1UfQ",
+       "views": 1602
+      },
+      {
+       "at": "2026-11-14T21:00",
+       "slug": "chess5-caro",
+       "url": "https://youtube.com/shorts/xPubHeMrA_Y",
+       "views": 1863
+      },
+      {
+       "at": "2026-11-15T10:00",
+       "slug": "chess5-englund",
+       "url": "https://youtube.com/shorts/EAqwsxI1aN8",
+       "views": 1332
+      },
+      {
+       "at": "2026-11-15T15:30",
+       "slug": "chess5-kieninger",
+       "url": "https://youtube.com/shorts/b5Ls0B1K1zo",
+       "views": 1268
+      },
+      {
+       "at": "2026-11-15T21:00",
+       "slug": "chess5-stafford",
+       "url": "https://youtube.com/shorts/R0IKIkyoj1U",
+       "views": 1454
+      },
+      {
+       "at": "2026-11-16T10:00",
+       "slug": "chess5-fishingpole",
+       "url": "https://youtube.com/shorts/fbmlVEK5iQs",
+       "views": 1151
+      },
+      {
+       "at": "2026-11-16T15:30",
+       "slug": "chess5-siberian",
+       "url": "https://youtube.com/shorts/43GNNfZxdQs",
+       "views": 670
+      }
+     ],
+     "queued": [
+      "chess5-lasker"
+     ],
+     "next": "2026-11-17T21:00",
+     "stats": {
+      "followers": 6,
+      "views": 11671,
+      "videos": 8
+     }
+    },
+    "tt": {
+     "handle": "@check.mate.in.5",
+     "url": "https://www.tiktok.com/@check.mate.in.5",
+     "status": "ready",
+     "note": "display name 'Check Mate in 5'",
+     "posted": [
+      {
+       "at": "2026-11-14T10:05",
+       "slug": "chess5-legal",
+       "url": "https://www.tiktok.com/@check.mate.in.5/video/7708043411282021663",
+       "views": 4139
+      },
+      {
+       "at": "2026-11-14T15:35",
+       "slug": "chess5-shilling",
+       "url": "https://www.tiktok.com/@check.mate.in.5/video/7708128521889123597",
+       "views": 4
+      },
+      {
+       "at": "2026-11-14T21:05",
+       "slug": "chess5-caro",
+       "url": "https://www.tiktok.com/@check.mate.in.5/video/7708213565592833311",
+       "views": 6
+      },
+      {
+       "at": "2026-11-15T15:35",
+       "slug": "chess5-kieninger",
+       "url": "https://www.tiktok.com/@check.mate.in.5/video/7708499611639450911",
+       "views": 2
+      },
+      {
+       "at": "2026-11-15T10:05",
+       "slug": "chess5-englund",
+       "url": "https://www.tiktok.com/@check.mate.in.5/video/7708413971577031949",
+       "views": 1149
+      },
+      {
+       "at": "2026-11-15T21:05",
+       "slug": "chess5-stafford",
+       "url": "https://www.tiktok.com/@check.mate.in.5/video/7708584095634296078",
+       "views": 4669
+      },
+      {
+       "at": "2026-11-16T12:32",
+       "slug": "chess5-fishingpole",
+       "url": ""
+      }
+     ],
+     "queued": [
+      "chess5-siberian",
+      "chess5-lasker"
+     ],
+     "next": "2026-11-17T21:00",
+     "stats": {
+      "followers": 6,
+      "views": 10880,
+      "videos": 7
+     }
+    },
+    "ig": {
+     "handle": "@chess.inseconds",
+     "url": "https://www.instagram.com/chess.inseconds/",
+     "status": "ready",
+     "note": "new 11-11 (old chess_inseconds deleting)",
+     "posted": [
+      {
+       "at": "2026-11-14T10:10",
+       "slug": "chess5-legal",
+       "url": "https://www.instagram.com/chess.inseconds/reel/Dfuf0_Ah2eN/",
+       "views": 2137
+      },
+      {
+       "at": "2026-11-14T15:40",
+       "slug": "chess5-shilling",
+       "url": "https://www.instagram.com/chess.inseconds/reel/DfvFmAlR-1M/",
+       "views": 2826
+      },
+      {
+       "at": "2026-11-14T21:10",
+       "slug": "chess5-caro",
+       "url": "https://www.instagram.com/chess.inseconds/reel/DfvrW7lu-gz/",
+       "views": 2520
+      },
+      {
+       "at": "2026-11-15T10:10",
+       "slug": "chess5-englund",
+       "url": "https://www.instagram.com/chess.inseconds/reel/DfxEn3ShWJO/",
+       "views": 6248
+      },
+      {
+       "at": "2026-11-15T15:40",
+       "slug": "chess5-kieninger",
+       "url": "https://www.instagram.com/chess.inseconds/reel/DfxqY1gsauW/",
+       "views": 1507
+      },
+      {
+       "at": "2026-11-16T10:10",
+       "slug": "chess5-fishingpole",
+       "url": "https://www.instagram.com/chess.inseconds/reel/Dfzpax1vuGy/",
+       "views": 1562
+      },
+      {
+       "at": "2026-11-16T15:40",
+       "slug": "chess5-siberian",
+       "url": "https://www.instagram.com/chess.inseconds/reel/Df0PLw7POgv/",
+       "views": 1471
+      }
+     ],
+     "queued": [
+      "chess5-lasker"
+     ],
+     "next": "2026-11-17T21:00",
+     "stats": {
+      "followers": 16,
+      "views": 18271,
+      "videos": 7
+     }
+    }
+   },
+   "queue": [
+    "chess5-stafford",
+    "chess5-fishingpole",
+    "chess5-siberian",
+    "chess5-lasker"
+   ],
+   "slots": [
+    "10:00",
+    "15:30",
+    "21:00"
+   ]
+  },
+  {
+   "key": "story",
+   "name": "Town of Rules",
+   "emoji": "🕰️",
+   "accounts": {
+    "yt": {
+     "handle": "@TownOfRules208",
+     "url": "https://www.youtube.com/@TownOfRules208",
+     "status": "ready",
+     "note": "UCu84MCErrU-A6j5rvm1yuPw (aienterprise208 brand account, made 11-12)",
+     "posted": [
+      {
+       "at": "2026-11-14T11:00",
+       "slug": "town13-p1",
+       "url": "https://youtube.com/shorts/mvqDnq5K7yk",
+       "views": 1430
+      },
+      {
+       "at": "2026-11-14T17:00",
+       "slug": "town13-p2",
+       "url": "https://youtube.com/shorts/inLGliI17TY",
+       "views": 6804
+      },
+      {
+       "at": "2026-11-14T21:30",
+       "slug": "town13-p3",
+       "url": "https://youtube.com/shorts/SSnz8HQhgDY",
+       "views": 1290
+      },
+      {
+       "at": "2026-11-15T11:00",
+       "slug": "town9-p1",
+       "url": "https://youtube.com/shorts/snEKKEodPC4",
+       "views": 1313
+      },
+      {
+       "at": "2026-11-15T17:00",
+       "slug": "town9-p2",
+       "url": "https://youtube.com/shorts/RLSEZIx7Rbw",
+       "views": 1270
+      },
+      {
+       "at": "2026-11-15T21:30",
+       "slug": "town9-p3",
+       "url": "https://youtube.com/shorts/eNEM2mYr4sA",
+       "views": 1115
+      },
+      {
+       "at": "2026-11-16T11:00",
+       "slug": "town9-p4",
+       "url": "https://youtube.com/shorts/3viEEGpIAtw",
+       "views": 1000
+      },
+      {
+       "at": "2026-11-16T17:00",
+       "slug": "town-forget-p1",
+       "url": "https://youtube.com/shorts/iN_Z48ZyOxM",
+       "views": 363
+      },
+      {
+       "at": "2026-11-16T21:30",
+       "slug": "town-forget-p2",
+       "url": "https://youtube.com/shorts/O7tJctI6mIw"
+      },
+      {
+       "at": "2026-11-17T11:00",
+       "slug": "town-dog-p1",
+       "url": "https://youtube.com/shorts/khYyuzioInU"
+      },
+      {
+       "at": "2026-11-17T17:00",
+       "slug": "town-dog-p2",
+       "url": "https://youtube.com/shorts/1HJwnuxp6-M"
+      }
+     ],
+     "queued": [],
+     "next": null,
+     "stats": {
+      "followers": 31,
+      "views": 14585,
+      "videos": 8
+     }
+    },
+    "tt": {
+     "handle": "@town.of.rules",
+     "url": "https://www.tiktok.com/@town.of.rules",
+     "status": "ready",
+     "note": "",
+     "posted": [
+      {
+       "at": "2026-11-14T11:05",
+       "slug": "town13-p1",
+       "url": "https://www.tiktok.com/@town.of.rules/video/7708058918408293662",
+       "views": 476
+      },
+      {
+       "at": "2026-11-14T17:05",
+       "slug": "town13-p2",
+       "url": "https://www.tiktok.com/@town.of.rules/video/7708151760082177310",
+       "views": 495
+      },
+      {
+       "at": "2026-11-14T21:35",
+       "slug": "town13-p3",
+       "url": "https://www.tiktok.com/@town.of.rules/video/7708221327303380237",
+       "views": 70
+      },
+      {
+       "at": "2026-11-15T11:05",
+       "slug": "town9-p1",
+       "url": "https://www.tiktok.com/@town.of.rules/video/7708432899850145037",
+       "views": 7330
+      },
+      {
+       "at": "2026-11-15T17:05",
+       "slug": "town9-p2",
+       "url": "https://www.tiktok.com/@town.of.rules/video/7708524729212177678",
+       "views": 1025
+      },
+      {
+       "at": "2026-11-15T22:16",
+       "slug": "town9-p3",
+       "url": ""
+      },
+      {
+       "at": "2026-11-16T12:34",
+       "slug": "town9-p4",
+       "url": "https://www.tiktok.com/@town.of.rules/video/7708602497178422541",
+       "views": 622
+      }
+     ],
+     "queued": [
+      "town-forget-p1",
+      "town-forget-p2",
+      "town-dog-p1",
+      "town-dog-p2"
+     ],
+     "next": "2026-11-17T21:30",
+     "stats": {
+      "followers": 12,
+      "views": 10025,
+      "videos": 7
+     }
+    },
+    "ig": {
+     "handle": "@townof_rules",
+     "url": "https://www.instagram.com/townof_rules/",
+     "status": "ready",
+     "note": "",
+     "posted": [
+      {
+       "at": "2026-11-14T11:10",
+       "slug": "town13-p1",
+       "url": "https://www.instagram.com/townof_rules/reel/DfumsgHAZIe/",
+       "views": 2025
+      },
+      {
+       "at": "2026-11-14T17:10",
+       "slug": "town13-p2",
+       "url": "https://www.instagram.com/townof_rules/reel/DfvP5LBAeWn/",
+       "views": 221
+      },
+      {
+       "at": "2026-11-14T21:40",
+       "slug": "town13-p3",
+       "url": "https://www.instagram.com/townof_rules/reel/DfvuyqLgdPk/",
+       "views": 1526
+      },
+      {
+       "at": "2026-11-15T11:10",
+       "slug": "town9-p1",
+       "url": "https://www.instagram.com/townof_rules/reel/DfxLfTqg9XM/",
+       "views": 2186
+      },
+      {
+       "at": "2026-11-15T17:10",
+       "slug": "town9-p2",
+       "url": "https://www.instagram.com/townof_rules/reel/Dfx0sFAgy8Z/",
+       "views": 694
+      }
+     ],
+     "queued": [
+      "town9-p3",
+      "town9-p4",
+      "town-forget-p1",
+      "town-forget-p2",
+      "town-dog-p1",
+      "town-dog-p2"
+     ],
+     "next": "2026-11-17T21:30",
+     "stats": {
+      "followers": 2,
+      "views": 6652,
+      "videos": 5
+     }
+    }
+   },
+   "queue": [
+    "town9-p3",
+    "town9-p4",
+    "town-forget-p1",
+    "town-forget-p2",
+    "town-dog-p1",
+    "town-dog-p2"
+   ],
+   "slots": [
+    "11:00",
+    "17:00",
+    "21:30"
+   ]
+  },
+  {
+   "key": "build",
+   "name": "Built From Zero",
+   "emoji": "🏗️",
+   "accounts": {
+    "yt": {
+     "handle": "@HowItsBuilt208",
+     "url": "https://www.youtube.com/@HowItsBuilt208",
+     "status": "ready",
+     "note": "channel name How It's Built",
+     "posted": [
+      {
+       "at": "2026-11-14T12:00",
+       "slug": "build-well-town",
+       "url": "https://youtube.com/shorts/s87RC95LzUo",
+       "views": 92
+      },
+      {
+       "at": "2026-11-14T18:00",
+       "slug": "build-hole-sewer",
+       "url": "https://youtube.com/shorts/jhN3a7RlfN8",
+       "views": 42
+      },
+      {
+       "at": "2026-11-14T22:00",
+       "slug": "build-log-bridge",
+       "url": "https://youtube.com/shorts/N-gbBn5rbXM",
+       "views": 1997
+      },
+      {
+       "at": "2026-11-15T12:05",
+       "slug": "build-mailbox-post",
+       "url": "https://youtube.com/shorts/xC2SHUITdRU",
+       "views": 1362
+      },
+      {
+       "at": "2026-11-15T18:00",
+       "slug": "build-paper-airport",
+       "url": "https://youtube.com/shorts/M2SwxMiP2nA",
+       "views": 2978
+      },
+      {
+       "at": "2026-11-15T22:00",
+       "slug": "build-tincan-tower",
+       "url": "https://youtube.com/shorts/cpadMgYHF8Y",
+       "views": 1423
+      },
+      {
+       "at": "2026-11-16T12:00",
+       "slug": "build-cpu",
+       "url": "https://youtube.com/shorts/DRLgKUrP_jc",
+       "views": 25
+      },
+      {
+       "at": "2026-11-16T18:00",
+       "slug": "build-touch",
+       "url": "https://youtube.com/shorts/09oM4ykOSWw",
+       "views": 0
+      }
+     ],
+     "queued": [
+      "build-screen",
+      "build-jet",
+      "build-gps",
+      "build-microwave"
+     ],
+     "next": "2026-11-17T18:00",
+     "stats": {
+      "followers": 10,
+      "views": 7919,
+      "videos": 8
+     }
+    },
+    "tt": {
+     "handle": "@builtfromzero60",
+     "url": "https://www.tiktok.com/@builtfromzero60",
+     "status": "ready",
+     "note": "name 'joe' until 11-17 (TikTok lock)",
+     "posted": [
+      {
+       "at": "2026-11-14T12:05",
+       "slug": "build-well-town",
+       "url": "https://www.tiktok.com/@builtfromzero60/video/7708074375014108429",
+       "views": 1
+      },
+      {
+       "at": "2026-11-14T18:05",
+       "slug": "build-hole-sewer",
+       "url": "https://www.tiktok.com/@builtfromzero60/video/7708167204927180046",
+       "views": 0
+      },
+      {
+       "at": "2026-11-14T22:05",
+       "slug": "build-log-bridge",
+       "url": "https://www.tiktok.com/@builtfromzero60/video/7708539171983330574",
+       "views": 865
+      },
+      {
+       "at": "2026-11-15T12:05",
+       "slug": "build-mailbox-post",
+       "url": "https://www.tiktok.com/@builtfromzero60/video/7708443658076425485",
+       "views": 918
+      },
+      {
+       "at": "2026-11-15T18:05",
+       "slug": "build-paper-airport",
+       "url": "https://www.tiktok.com/@builtfromzero60/video/7708229033292582157",
+       "views": 0
+      },
+      {
+       "at": "2026-11-15T22:28",
+       "slug": "build-tincan-tower",
+       "url": "https://www.tiktok.com/@builtfromzero60/video/7708602867011177742",
+       "views": 544
+      }
+     ],
+     "queued": [
+      "build-cpu",
+      "build-touch",
+      "build-screen",
+      "build-jet",
+      "build-gps",
+      "build-microwave"
+     ],
+     "next": "2026-11-17T18:00",
+     "stats": {
+      "followers": 5,
+      "views": 3017,
+      "videos": 8
+     }
+    },
+    "ig": {
+     "handle": "@built_fromzero1",
+     "url": "https://www.instagram.com/built_fromzero1/",
+     "status": "ready",
+     "note": "",
+     "posted": [
+      {
+       "at": "2026-11-14T12:10",
+       "slug": "build-well-town",
+       "url": "https://www.instagram.com/built_fromzero1/reel/Dfutj53Mn8Q/",
+       "views": 239
+      },
+      {
+       "at": "2026-11-14T18:10",
+       "slug": "build-hole-sewer",
+       "url": "https://www.instagram.com/built_fromzero1/reel/DfvWwmXMF-w/",
+       "views": 1897
+      },
+      {
+       "at": "2026-11-14T22:10",
+       "slug": "build-log-bridge",
+       "url": "https://www.instagram.com/built_fromzero1/reel/DfvyOdFsK_P/",
+       "views": 1818
+      },
+      {
+       "at": "2026-11-15T12:10",
+       "slug": "build-mailbox-post",
+       "url": "https://www.instagram.com/built_fromzero1/reel/DfxSWvzs9sr/",
+       "views": 1638
+      },
+      {
+       "at": "2026-11-15T18:10",
+       "slug": "build-paper-airport",
+       "url": "https://www.instagram.com/built_fromzero1/reel/Dfx7jcwsPI4/",
+       "views": 1617
+      },
+      {
+       "at": "2026-11-16T18:10",
+       "slug": "build-cpu",
+       "url": "https://www.instagram.com/built_fromzero1/reel/Df0gWlls9e9/",
+       "views": 0
+      }
+     ],
+     "queued": [
+      "build-touch",
+      "build-screen",
+      "build-jet",
+      "build-gps",
+      "build-microwave"
+     ],
+     "next": "2026-11-17T18:00",
+     "stats": {
+      "followers": null,
+      "views": 7209,
+      "videos": 6
+     }
+    }
+   },
+   "queue": [
+    "build-tincan-tower",
+    "build-cpu",
+    "build-touch",
+    "build-screen",
+    "build-jet",
+    "build-gps",
+    "build-microwave"
+   ],
+   "slots": [
+    "12:00",
+    "18:00",
+    "22:00"
+   ]
+  }
+ ],
+ "slots_et": [
+  "09:30",
+  "15:00",
+  "20:30"
+ ],
+ "posting": "HOLD (owner reviews every video first)",
+ "hold": false,
+ "generated": "2026-11-17T17:01",
+ "awaiting_review": [],
+ "approved": [],
+ "remaking": [],
+ "review": [],
+ "titles": {
+  "piano-iwantyouback": "I Want You Back",
+  "piano-fairy": "Great Fairy Fountain",
+  "piano-friend": "You've Got a Friend in Me",
+  "piano-bohemian": "Bohemian Rhapsody",
+  "piano-iwillsurvive": "I Will Survive",
+  "piano-mylife": "My Life",
+  "piano-saturdaypark": "Saturday in the Park",
+  "chess5-stafford": "He won the queen and lost",
+  "chess5-fishingpole": "The free bishop was bait",
+  "chess5-siberian": "He took the free knight",
+  "chess5-lasker": "The pawn became a knight",
+  "town9-p3": "In This Town, The Streetlights Go Out At Nine 😨 (Part 3)",
+  "town9-p4": "In This Town, The Streetlights Go Out At Nine 😨 (Part 4)",
+  "town-forget-p1": "In This Town, Everyone Forgets One Person 😢 (Part 1)",
+  "town-forget-p2": "In This Town, Everyone Forgets One Person 😢 (Part 2)",
+  "town-dog-p1": "In This Town, Dogs Can Say Only One Sentence 🐶 (Part 1)",
+  "town-dog-p2": "In This Town, Dogs Can Say Only One Sentence 🐶 (Part 2)",
+  "build-tincan-tower": "How a tin can phone becomes a cell tower",
+  "build-cpu": "How a CPU actually works",
+  "build-touch": "How a touchscreen actually works",
+  "build-screen": "How your phone screen actually works",
+  "build-jet": "How a jet engine actually works",
+  "build-gps": "How GPS actually works",
+  "build-microwave": "How a microwave actually works"
+ },
+ "schedule": [
+  {
+   "at": "2026-11-17T09:30",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "yt",
+   "slot": 1,
+   "slug": "piano-bohemian",
+   "state": "held",
+   "why": "account paused",
+   "title": "Bohemian Rhapsody"
+  },
+  {
+   "at": "2026-11-17T09:35",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "tt",
+   "slot": 1,
+   "slug": "piano-friend",
+   "state": "held",
+   "why": "account paused",
+   "title": "You've Got a Friend in Me"
+  },
+  {
+   "at": "2026-11-17T09:40",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "ig",
+   "slot": 1,
+   "slug": "piano-bohemian",
+   "state": "held",
+   "why": "account paused",
+   "title": "Bohemian Rhapsody"
+  },
+  {
+   "at": "2026-11-17T10:00",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "yt",
+   "slot": 1,
+   "slug": "chess5-lasker",
+   "state": "held",
+   "why": "account paused",
+   "title": "The pawn became a knight"
+  },
+  {
+   "at": "2026-11-17T10:05",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "tt",
+   "slot": 1,
+   "slug": "chess5-siberian",
+   "state": "held",
+   "why": "account paused",
+   "title": "He took the free knight"
+  },
+  {
+   "at": "2026-11-17T10:10",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "ig",
+   "slot": 1,
+   "slug": "chess5-lasker",
+   "state": "held",
+   "why": "account paused",
+   "title": "The pawn became a knight"
+  },
+  {
+   "at": "2026-11-17T11:00",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "yt",
+   "slot": 1,
+   "state": "posted",
+   "slug": "town-dog-p1",
+   "url": "https://youtube.com/shorts/khYyuzioInU",
+   "title": "In This Town, Dogs Can Say Only One Sentence 🐶 (Part 1)"
+  },
+  {
+   "at": "2026-11-17T11:05",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "tt",
+   "slot": 1,
+   "slug": "town-forget-p1",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, Everyone Forgets One Person 😢 (Part 1)"
+  },
+  {
+   "at": "2026-11-17T11:10",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "ig",
+   "slot": 1,
+   "slug": "town9-p3",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, The Streetlights Go Out At Nine 😨 (Part 3)"
+  },
+  {
+   "at": "2026-11-17T12:00",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "yt",
+   "slot": 1,
+   "slug": "build-screen",
+   "state": "held",
+   "why": "account paused",
+   "title": "How your phone screen actually works"
+  },
+  {
+   "at": "2026-11-17T12:05",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "tt",
+   "slot": 1,
+   "slug": "build-cpu",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a CPU actually works"
+  },
+  {
+   "at": "2026-11-17T12:10",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "ig",
+   "slot": 1,
+   "slug": "build-touch",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a touchscreen actually works"
+  },
+  {
+   "at": "2026-11-17T15:00",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "yt",
+   "slot": 2,
+   "slug": "piano-iwillsurvive",
+   "state": "held",
+   "why": "account paused",
+   "title": "I Will Survive"
+  },
+  {
+   "at": "2026-11-17T15:05",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "tt",
+   "slot": 2,
+   "slug": "piano-bohemian",
+   "state": "held",
+   "why": "account paused",
+   "title": "Bohemian Rhapsody"
+  },
+  {
+   "at": "2026-11-17T15:10",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "ig",
+   "slot": 2,
+   "slug": "piano-iwillsurvive",
+   "state": "held",
+   "why": "account paused",
+   "title": "I Will Survive"
+  },
+  {
+   "at": "2026-11-17T15:30",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "yt",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-17T15:35",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "tt",
+   "slot": 2,
+   "slug": "chess5-lasker",
+   "state": "held",
+   "why": "account paused",
+   "title": "The pawn became a knight"
+  },
+  {
+   "at": "2026-11-17T15:40",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "ig",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-17T17:00",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "yt",
+   "slot": 2,
+   "state": "posted",
+   "slug": "town-dog-p2",
+   "url": "https://youtube.com/shorts/1HJwnuxp6-M",
+   "title": "In This Town, Dogs Can Say Only One Sentence 🐶 (Part 2)"
+  },
+  {
+   "at": "2026-11-17T17:05",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "tt",
+   "slot": 2,
+   "slug": "town-forget-p2",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, Everyone Forgets One Person 😢 (Part 2)"
+  },
+  {
+   "at": "2026-11-17T17:10",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "ig",
+   "slot": 2,
+   "slug": "town9-p4",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, The Streetlights Go Out At Nine 😨 (Part 4)"
+  },
+  {
+   "at": "2026-11-17T18:00",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "yt",
+   "slot": 2,
+   "slug": "build-jet",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a jet engine actually works"
+  },
+  {
+   "at": "2026-11-17T18:05",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "tt",
+   "slot": 2,
+   "slug": "build-touch",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a touchscreen actually works"
+  },
+  {
+   "at": "2026-11-17T18:10",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "ig",
+   "slot": 2,
+   "slug": "build-screen",
+   "state": "held",
+   "why": "account paused",
+   "title": "How your phone screen actually works"
+  },
+  {
+   "at": "2026-11-17T20:30",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "yt",
+   "slot": 3,
+   "slug": "piano-mylife",
+   "state": "held",
+   "why": "account paused",
+   "title": "My Life"
+  },
+  {
+   "at": "2026-11-17T20:35",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "tt",
+   "slot": 3,
+   "slug": "piano-iwillsurvive",
+   "state": "held",
+   "why": "account paused",
+   "title": "I Will Survive"
+  },
+  {
+   "at": "2026-11-17T20:40",
+   "day": "2026-11-17",
+   "f": "piano",
+   "p": "ig",
+   "slot": 3,
+   "slug": "piano-mylife",
+   "state": "held",
+   "why": "account paused",
+   "title": "My Life"
+  },
+  {
+   "at": "2026-11-17T21:00",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "yt",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-17T21:05",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "tt",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-17T21:10",
+   "day": "2026-11-17",
+   "f": "chess",
+   "p": "ig",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-17T21:30",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "yt",
+   "slot": 3,
+   "slug": "",
+   "state": "empty"
+  },
+  {
+   "at": "2026-11-17T21:35",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "tt",
+   "slot": 3,
+   "slug": "town-dog-p1",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, Dogs Can Say Only One Sentence 🐶 (Part 1)"
+  },
+  {
+   "at": "2026-11-17T21:40",
+   "day": "2026-11-17",
+   "f": "story",
+   "p": "ig",
+   "slot": 3,
+   "slug": "town-forget-p1",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, Everyone Forgets One Person 😢 (Part 1)"
+  },
+  {
+   "at": "2026-11-17T22:00",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "yt",
+   "slot": 3,
+   "slug": "build-gps",
+   "state": "held",
+   "why": "account paused",
+   "title": "How GPS actually works"
+  },
+  {
+   "at": "2026-11-17T22:05",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "tt",
+   "slot": 3,
+   "slug": "build-screen",
+   "state": "held",
+   "why": "account paused",
+   "title": "How your phone screen actually works"
+  },
+  {
+   "at": "2026-11-17T22:10",
+   "day": "2026-11-17",
+   "f": "build",
+   "p": "ig",
+   "slot": 3,
+   "slug": "build-jet",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a jet engine actually works"
+  },
+  {
+   "at": "2026-11-18T09:30",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "yt",
+   "slot": 1,
+   "slug": "piano-saturdaypark",
+   "state": "held",
+   "why": "account paused",
+   "title": "Saturday in the Park"
+  },
+  {
+   "at": "2026-11-18T09:35",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "tt",
+   "slot": 1,
+   "slug": "piano-mylife",
+   "state": "held",
+   "why": "account paused",
+   "title": "My Life"
+  },
+  {
+   "at": "2026-11-18T09:40",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "ig",
+   "slot": 1,
+   "slug": "piano-saturdaypark",
+   "state": "held",
+   "why": "account paused",
+   "title": "Saturday in the Park"
+  },
+  {
+   "at": "2026-11-18T10:00",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "yt",
+   "slot": 1,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T10:05",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "tt",
+   "slot": 1,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T10:10",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "ig",
+   "slot": 1,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T11:00",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "yt",
+   "slot": 1,
+   "slug": "",
+   "state": "empty"
+  },
+  {
+   "at": "2026-11-18T11:05",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "tt",
+   "slot": 1,
+   "slug": "town-dog-p2",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, Dogs Can Say Only One Sentence 🐶 (Part 2)"
+  },
+  {
+   "at": "2026-11-18T11:10",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "ig",
+   "slot": 1,
+   "slug": "town-forget-p2",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, Everyone Forgets One Person 😢 (Part 2)"
+  },
+  {
+   "at": "2026-11-18T12:00",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "yt",
+   "slot": 1,
+   "slug": "build-microwave",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a microwave actually works"
+  },
+  {
+   "at": "2026-11-18T12:05",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "tt",
+   "slot": 1,
+   "slug": "build-jet",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a jet engine actually works"
+  },
+  {
+   "at": "2026-11-18T12:10",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "ig",
+   "slot": 1,
+   "slug": "build-gps",
+   "state": "held",
+   "why": "account paused",
+   "title": "How GPS actually works"
+  },
+  {
+   "at": "2026-11-18T15:00",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "yt",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T15:05",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "tt",
+   "slot": 2,
+   "slug": "piano-saturdaypark",
+   "state": "held",
+   "why": "account paused",
+   "title": "Saturday in the Park"
+  },
+  {
+   "at": "2026-11-18T15:10",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "ig",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T15:30",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "yt",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T15:35",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "tt",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T15:40",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "ig",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T17:00",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "yt",
+   "slot": 2,
+   "slug": "",
+   "state": "empty"
+  },
+  {
+   "at": "2026-11-18T17:05",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "tt",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T17:10",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "ig",
+   "slot": 2,
+   "slug": "town-dog-p1",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, Dogs Can Say Only One Sentence 🐶 (Part 1)"
+  },
+  {
+   "at": "2026-11-18T18:00",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "yt",
+   "slot": 2,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T18:05",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "tt",
+   "slot": 2,
+   "slug": "build-gps",
+   "state": "held",
+   "why": "account paused",
+   "title": "How GPS actually works"
+  },
+  {
+   "at": "2026-11-18T18:10",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "ig",
+   "slot": 2,
+   "slug": "build-microwave",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a microwave actually works"
+  },
+  {
+   "at": "2026-11-18T20:30",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "yt",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T20:35",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "tt",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T20:40",
+   "day": "2026-11-18",
+   "f": "piano",
+   "p": "ig",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T21:00",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "yt",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T21:05",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "tt",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T21:10",
+   "day": "2026-11-18",
+   "f": "chess",
+   "p": "ig",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T21:30",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "yt",
+   "slot": 3,
+   "slug": "",
+   "state": "empty"
+  },
+  {
+   "at": "2026-11-18T21:35",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "tt",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T21:40",
+   "day": "2026-11-18",
+   "f": "story",
+   "p": "ig",
+   "slot": 3,
+   "slug": "town-dog-p2",
+   "state": "held",
+   "why": "account paused",
+   "title": "In This Town, Dogs Can Say Only One Sentence 🐶 (Part 2)"
+  },
+  {
+   "at": "2026-11-18T22:00",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "yt",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  },
+  {
+   "at": "2026-11-18T22:05",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "tt",
+   "slot": 3,
+   "slug": "build-microwave",
+   "state": "held",
+   "why": "account paused",
+   "title": "How a microwave actually works"
+  },
+  {
+   "at": "2026-11-18T22:10",
+   "day": "2026-11-18",
+   "f": "build",
+   "p": "ig",
+   "slot": 3,
+   "slug": "",
+   "state": "held",
+   "why": "account paused"
+  }
+ ],
+ "tiktok": []
+}
